@@ -1,0 +1,6 @@
+svcaccount: "wso2svc-account"
+confs: confs-prod
+testEndpoint: https://www.yahoo.com
+registry: index.docker.io
+username: 
+password: 

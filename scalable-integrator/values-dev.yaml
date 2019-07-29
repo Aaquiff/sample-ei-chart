@@ -1,0 +1,6 @@
+svcaccount: "wso2svc-account"
+confs: confs-dev
+testEndpoint: https://www.google.lk
+registry: index.docker.io
+username:
+password:
