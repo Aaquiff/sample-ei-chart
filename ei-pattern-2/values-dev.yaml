@@ -1,0 +1,7 @@
+wso2:
+  deployment:
+    wso2ei:
+      dockerRegistry: "index.docker.io/aaquiff"
+      imageName: "wso2ei-integrator"
+      imageTag: ""
+      imagePullSecrets: "regcred"
